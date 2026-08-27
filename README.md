@@ -11,9 +11,9 @@ Soy un desarrollador de software en formación intensiva. Vengo de una trayector
 
 ## Proyectos Destacados (Escuela 42)
 
-*   **[Webserv](enlaza-aqui-tu-repo):** Servidor web HTTP desarrollado desde cero en C++.
-*   **[Minishell](enlaza-aqui-tu-repo):** Desarrollo de un intérprete de comandos (shell) similar a Bash escrito en C.
-*   **[Inception](enlaza-aqui-tu-repo):** Diseño y despliegue de una infraestructura de red utilizando Docker.
+*   **[Webserv]:** Servidor web HTTP desarrollado desde cero en C++.
+*   **[Minishell]:** Desarrollo de un intérprete de comandos (shell) similar a Bash escrito en C.
+*   **[Inception]** Diseño y despliegue de una infraestructura de red utilizando Docker.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
